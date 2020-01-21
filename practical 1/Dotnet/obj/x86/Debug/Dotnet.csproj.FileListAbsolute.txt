@@ -1,0 +1,4 @@
+D:\Dotnet\practical 1\Dotnet\bin\Debug\Dotnet.exe
+D:\Dotnet\practical 1\Dotnet\bin\Debug\Dotnet.pdb
+D:\Dotnet\practical 1\Dotnet\obj\x86\Debug\Dotnet.exe
+D:\Dotnet\practical 1\Dotnet\obj\x86\Debug\Dotnet.pdb
