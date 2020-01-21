@@ -1,0 +1,4 @@
+D:\Dotnet\practical 2\practical 2\bin\Debug\practical 2.exe
+D:\Dotnet\practical 2\practical 2\bin\Debug\practical 2.pdb
+D:\Dotnet\practical 2\practical 2\obj\x86\Debug\practical 2.exe
+D:\Dotnet\practical 2\practical 2\obj\x86\Debug\practical 2.pdb
